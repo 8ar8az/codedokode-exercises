@@ -1,0 +1,37 @@
+{
+  "name": "codedokode-exercises",
+  "version": "0.0.1",
+  "description": "My answers for codedokode exersices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ar8az/codedokode-exercises.git"
+  },
+  "author": "8ar8az",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ar8az/codedokode-exercises/issues"
+  },
+  "homepage": "https://github.com/8ar8az/codedokode-exercises#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^24.0.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jest": "^22.2.2",
+    "eslint-plugin-lodash": "^5.1.0",
+    "jest": "^24.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
